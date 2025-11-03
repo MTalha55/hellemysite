@@ -1,0 +1,82 @@
+body {
+font-family: 'Arial', sans-serif;
+margin: 0;
+padding: 0;
+background-color: #e3e1e1;
+color: #333;
+}
+header {
+background-color: #1e1e1e;
+color: #fff;
+padding: 80px 20px;
+text-align: center;
+}
+.btn {
+display: inline-block;
+padding: 12px 25px;
+margin: 5px;
+background-color: #ff6b6b;
+color: #fff;
+text-decoration: none;
+border-radius: 8px;
+transition: background 0.3s;
+}
+.btn:hover {
+background-color: #ff4b4b;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.h2-mrb h2{
+    text-align: center;
+    font-size: 3rem;
+    font-family: raleway;
+}
+
+
+footer {
+background-color: #1e1e1e;
+color: #fff;
+text-align: center;
+padding: 30px 20px;
+
+}
